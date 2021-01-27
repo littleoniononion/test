@@ -1,3 +1,0 @@
-print("hello world")
-
-是的京津冀奥
